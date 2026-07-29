@@ -4,7 +4,7 @@ This document is a proposal for the usage of an SMTP header to improve the user 
 
 It is geared towards app and email client developers, to encourage them to support this header and provide some real-world feedback in order to improve the spec.
 
-The original article introducing this idea is available at []
+The original article introducing this idea is available here: [https://victormours.mataroa.blog/blog/an-idea-for-slightly-better-email/](https://victormours.mataroa.blog/blog/an-idea-for-slightly-better-email/)
 
 # Specification
 
